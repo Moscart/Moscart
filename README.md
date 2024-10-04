@@ -1,16 +1,22 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hey there, I’m Daniel Theo!</h1></summary>
+  </ul>
+</div>
 
-<!--
-**Moscart/Moscart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Frontend Programmer</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img unselectable="on" src="http://streak-stats.demolab.com?user=Moscart&theme=holi-theme&hide_border=true&background=0D1117&mode=weekly"/><br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://orzproject.my.id">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite,prisma,mysql,postgres,firebase,git,github,postman,npm,vscode&perline=7" />
+  </a>
+</p>
