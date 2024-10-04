@@ -16,7 +16,7 @@
   </ul>
 </div>
 <p align="center">
-  <a href="https://orzproject.my.id">
+  <div>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite,prisma,mysql,postgres,firebase,git,github,postman,npm,vscode&perline=6" />
-  </a>
+  </div>
 </p>
