@@ -54,9 +54,9 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Moscart&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Daniel's GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&bg_color=FFFFFF&border_color=D0D7DE&title_color=0969DA&text_color=24292F&border_radius=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&exclude_repo=InfaqOnline%2Cbelajar-laravel-eloquent%2Cbelajar-laravel-security%2Cbelajar-laravel-restful-api%2Cbelajar-laravel-validation%2Claravel-todolist%2Cbelajar-laravel-eloquent-api-resource%2Cbelajar-laravel-redis%2Cbelajar-laravel-http-client&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&exclude_repo=InfaqOnline%2Cbelajar-laravel-eloquent%2Cbelajar-laravel-security%2Cbelajar-laravel-restful-api%2Cbelajar-laravel-validation%2Claravel-todolist%2Cbelajar-laravel-eloquent-api-resource%2Cbelajar-laravel-redis%2Cbelajar-laravel-http-client&bg_color=FFFFFF&border_color=D0D7DE&title_color=0969DA&text_color=24292F&border_radius=8" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moscart&layout=compact&langs_count=6&exclude_repo=InfaqOnline%2Cbelajar-laravel-eloquent%2Cbelajar-laravel-security%2Cbelajar-laravel-restful-api%2Cbelajar-laravel-validation%2Claravel-todolist%2Cbelajar-laravel-eloquent-api-resource%2Cbelajar-laravel-redis%2Cbelajar-laravel-http-client&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
   </picture>
 </p>
 
@@ -66,8 +66,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,bootstrap,nodejs,prisma,postgres,mysql,firebase,docker,git,postman,vscode&perline=9&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,bootstrap,nodejs,prisma,postgres,mysql,firebase,docker,git,postman,vscode&perline=9&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,bootstrap,nodejs,prisma,postgres,mysql,firebase,docker,git,postman,vscode&perline=9&theme=dark" alt="Tech Stack Icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cbootstrap%2Cnodejs%2Cprisma%2Cpostgres%2Cmysql%2Cfirebase%2Cdocker%2Cgit%2Cpostman%2Cvscode&perline=9&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cbootstrap%2Cnodejs%2Cprisma%2Cpostgres%2Cmysql%2Cfirebase%2Cdocker%2Cgit%2Cpostman%2Cvscode&perline=9&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Creact%2Cnextjs%2Ctailwind%2Cvite%2Cbootstrap%2Cnodejs%2Cprisma%2Cpostgres%2Cmysql%2Cfirebase%2Cdocker%2Cgit%2Cpostman%2Cvscode&perline=9&theme=dark" alt="Tech Stack Icons" />
   </picture>
 </p>
